@@ -45,5 +45,5 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
-* Wed Dec 08 2021 João Capucho <jcapucho7@gmail.com> - 8.0
+* Wed Dec 08 2021 João Capucho <jcapucho7@gmail.com> - 8.0-1
 - First steamtinkerlauncher package

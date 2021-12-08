@@ -6,6 +6,7 @@ Summary:        KDE Plasma extension that lets you tile your windows automatical
 License:        MIT
 URL:            https://bismuth-forge.github.io/bismuth
 Source0:        https://github.com/Bismuth-Forge/bismuth/archive/refs/tags/v%{version}.tar.gz
+Patch0:         empty.patch
 
 BuildRequires:  cmake ninja-build extra-cmake-modules npm
 BuildRequires:  kf5-kconfigwidgets-devel qt5-qtbase-devel qt5-qtbase-private-devel
