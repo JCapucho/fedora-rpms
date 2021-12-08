@@ -1,6 +1,6 @@
 --- Makefile.org	2021-12-08 17:48:12.018473739 +0000
-+++ Makefile	2021-12-08 17:54:05.099905361 +0000
-@@ -2,18 +2,22 @@
++++ Makefile	2021-12-08 22:18:34.626456745 +0000
+@@ -2,18 +2,23 @@
      PREFIX := /usr
  endif
  
@@ -28,4 +28,5 @@
 +	install -Dm644 README.md -t "$(BUILDROOT)$(PREFIX)/share/doc/steamtinkerlaunch"
 +	install -Dm644 "misc/steamtinkerlaunch.desktop" -t "$(BUILDROOT)$(PREFIX)/share/applications"
 +	install -Dm644 "misc/steamtinkerlaunch.svg" -t "$(BUILDROOT)$(PREFIX)/share/icons/hicolor/scalable/apps"
++	install -Dm644 "misc/steamtinkerlaunch.svg" -t "$(BUILDROOT)$(PREFIX)/share/steamtinkerlaunch/misc"
  

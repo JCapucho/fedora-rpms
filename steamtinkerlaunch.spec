@@ -1,7 +1,7 @@
 Name:           steamtinkerlaunch
 Version:        8.0
 Release:        1%{?dist}
-Summary:        wrapper tool for use with the Steam client for custom launch options
+Summary:        Wrapper tool for use with the Steam client for custom launch options
 
 License:        GPLv3
 URL:            https://github.com/frostworx/steamtinkerlaunch

@@ -36,11 +36,9 @@ them via keyboard, just like in classical tiling window managers
 %{_datadir}/icons/hicolor/scalable/apps/bismuth.svg
 %{_datadir}/kconf_update/old_conf_ui.sh
 %{_datadir}/kconf_update/old_conf_ui.upd
-%dir %{_datadir}/kpackage/kcms/kcm_bismuth
-%{_datadir}/kpackage/kcms/kcm_bismuth/*
+%{_datadir}/kpackage/kcms/kcm_bismuth
 %{_datadir}/kservices5/kcm_bismuth.desktop
-%dir %{_datadir}/kwin/scripts/bismuth
-%{_datadir}/kwin/scripts/bismuth/*
+%{_datadir}/kwin/scripts/bismuth
 
 %changelog
 * Tue Dec 07 2021 João Capucho <jcapucho7 at gmail.com> - 2.2.0-1
