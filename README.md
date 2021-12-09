@@ -14,3 +14,10 @@ https://github.com/frostworx/steamtinkerlaunch
 > Steam Tinker Launch (short steamtinkerlaunch) is a Linux wrapper tool for use with the Steam client which allows customizing and start tools and options for games quickly on the fly
 >
 > By using a versatile configuration structure it is both easy to set up and flexible.
+
+# Wallpaper engine kde plugin
+
+Requires adding the rpm fusion repo first
+
+https://github.com/catsout/wallpaper-engine-kde-plugin#plugin-lib:
+> A kde wallpaper plugin integrating wallpaper engine 
