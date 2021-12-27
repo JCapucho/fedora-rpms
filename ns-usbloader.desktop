@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NS-USBloader
+Icon=ns-usbloader
+Comment=Awoo Installer/TinFoil/GoldLeaf NSPs (and other files) uploader and RCM tool.
+Exec=/usr/bin/env java -jar /usr/share/java/ns-usbloader.jar
+Type=Application
+Terminal=false
+Categories=Game;
