@@ -21,3 +21,14 @@ Requires adding the rpm fusion repo first
 
 https://github.com/catsout/wallpaper-engine-kde-plugin#plugin-lib:
 > A kde wallpaper plugin integrating wallpaper engine 
+
+# NS-USBloader
+
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/capucho/ns-usbloader/package/ns-usbloader/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/capucho/ns-usbloader/package/ns-usbloader/)
+
+https://github.com/developersu/ns-usbloader
+> NS-USBloader is:
+> - A PC-side installer for Huntereb/Awoo-Installer / other compatible installers (USB and Network supported) and XorTroll/GoldLeaf (USB) NSP installer. Alternative to default **usb_install_pc.py**, **remote_install_pc.py**, **GoldTree/Quark**.
+> - RCM payload tool that works on Windows, macOS (Intel and Apple Silicon) and Linux (x86, amd64 and Raspberry Pi ARM).
+> - It's a tool for creating split files!
+> - Also you can use it for merging split-files into one :)
