@@ -1,5 +1,5 @@
 Name:           steamtinkerlaunch
-Version:        9.0.1
+Version:        9.2
 Release:        1%{?dist}
 Summary:        Wrapper tool for use with the Steam client for custom launch options
 
@@ -45,6 +45,9 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Sat Mar 5 2022 João Capucho <jcapucho7@gmail.com> - 9.2-1
+- Update to version 9.2
+
 * Sat Jan 15 2022 João Capucho <jcapucho7@gmail.com> - 9.0.1-1
 - Update to version 9.0.1
 
