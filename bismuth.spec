@@ -30,8 +30,8 @@ them via keyboard, just like in classical tiling window managers
 
 %files
 %license LICENSES/MIT.txt
-%{_prefix}/lib/debug%{_libdir}/qt5/plugins/org.kde.kdecoration2/bismuth_kdecoration.so-%{version}-%{release}.fc35.x86_64.debug
-%{_prefix}/lib/debug%{_libdir}/qt5/qml/org/kde/bismuth/core/libbismuth_core.so-%{version}-%{release}.fc35.x86_64.debug
+%{_prefix}/lib/debug%{_libdir}/qt5/plugins/org.kde.kdecoration2/bismuth_kdecoration.so-%{version}-%{release}.*
+%{_prefix}/lib/debug%{_libdir}/qt5/qml/org/kde/bismuth/core/libbismuth_core.so-%{version}-%{release}.*
 %{_libdir}/qt5/plugins/kcms/kcm_bismuth.so
 %{_libdir}/qt5/plugins/org.kde.kdecoration2/bismuth_kdecoration.so
 %{_libdir}/qt5/qml/org/kde/bismuth/core/libbismuth_core.so
