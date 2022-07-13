@@ -1,5 +1,5 @@
 Name:           bismuth
-Version:        3.1.1
+Version:        3.1.2
 Release:        1%{?dist}
 Summary:        KDE Plasma extension that lets you tile your windows automatically
 
@@ -47,6 +47,8 @@ them via keyboard, just like in classical tiling window managers
 %{_datadir}/icons/hicolor/32x32/status/bismuth*
 
 %changelog
+* Wed Jul 13 2022 Ta-Lun Yen <es at evsfy.com> - 3.1.2-1
+- Update to version 3.1.2
 * Mon Jun 06 2022 Ta-Lun Yen <es at evsfy.com> - 3.1.1-1
 - Update to version 3.1.1
 * Sun Jan 30 2022 João Capucho <jcapucho7 at gmail.com> - 2.3.0-1
